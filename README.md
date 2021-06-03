@@ -21,7 +21,7 @@ make jar
 ```
 >Run the assembly code using the below command:
 ```
-java -cp out/make/sictools.jar sic.Asm textualdraw.asm
+java -cp out/make/sictools.jar sic.Asm TextDraw.asm
 ```
 ## Examples to run
 ```
